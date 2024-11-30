@@ -1,4 +1,28 @@
 # charts
+| **Function**        | **Code**         | **Meaning**                                                                             |
+|---------------------|------------------|-----------------------------------------------------------------------------------------|
+| **General Usage**   | QRM              | "Is my transmission being interfered with?" / "Your transmission is being interfered with." |
+|                     | QRN              | "Are you troubled by static?" / "I am troubled by static."                              |
+|                     | QRP              | "Shall I decrease power?" / "Reduce power."                                            |
+|                     | QRT              | "Shall I stop sending?" / "Stop sending."                                              |
+|                     | QRZ              | "Who is calling me?"                                                                   |
+| **Signal Quality**  | QRS              | "Shall I send more slowly?" / "Send more slowly."                                      |
+|                     | QSL              | "Can you acknowledge receipt?" / "I acknowledge receipt."                              |
+|                     | QSO              | A radio communication or conversation between stations.                                |
+|                     | QSY              | "Shall I change frequency?" / "Change frequency."                                      |
+|                     | QTH              | "What is your location?" / "My location is..."                                         |
+| **Emergency**       | SOS              | International distress signal ("Save Our Souls").                                       |
+|                     | CQD              | Early distress signal before SOS ("Come Quick, Danger").                               |
+|                     | QRRR             | Emergency message relay or extreme distress.                                           |
+| **Weather/Reports** | QRK              | "What is the readability of my signal?" / "Your signal readability is..."              |
+|                     | QSB              | "Is my signal fading?" / "Your signal is fading."                                      |
+|                     | QSM              | "Shall I repeat the message?" / "Repeat the message."                                  |
+| **Identification**  | CQ               | General call to all stations (e.g., "CQ DX" for long-distance stations).               |
+|                     | QRZ              | "Who is calling me?"                                                                   |
+|                     | QRA              | "What is your station name?" / "My station name is..."                                 |
+|                     | QRL              | "Are you busy?" / "This frequency is busy."                                            |
+
+
 
 | Channel Number | Service Type | Frequency (MHz) | Max Power (Watt) |
 |----------------|--------------|------------------|-------------------|
